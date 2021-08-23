@@ -68,6 +68,17 @@ h1 .insight{
     font-size: 12px;
     margin-top: 5px;
 }
+@media screen and (max-width:768px){
+    body{
+        
+    }
+    main{
+        width: 680px;
+    }
+    main img{
+        width: 320px;
+    }
+}
 @media screen and (max-width:600px){
     body{
         height: 140vh;
@@ -112,10 +123,4 @@ h1 .insight{
     .stats p{
         margin-bottom: 20px;
     }
-}
-@media screen and(max-width:768px){
-    body{
-        background-color: hsla(0, 0%, 100%, 0.75);
-    }
-    
 }
