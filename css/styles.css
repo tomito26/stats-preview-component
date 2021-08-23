@@ -81,7 +81,7 @@ h1 .insight{
 }
 @media screen and (max-width:600px){
     body{
-        height: 140vh;
+        height: 135vh;
        
     
     }
@@ -89,7 +89,7 @@ h1 .insight{
         width: 340px;
         display: flex;
         flex-direction: column-reverse;
-        margin: 0 10px;
+        margin: 0 15px;
         border-bottom-right-radius: 10px;
         border-top-left-radius: 0;
         
